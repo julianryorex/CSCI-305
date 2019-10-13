@@ -39,10 +39,12 @@ Make change using non-advancing write
 Modify Problem 1 to have a new function that uses non-advancing write to output the solution:
 Put all the results on one line, again do not print zero values
 
-The output should look like this for input 41
+The output should look like this for input 41: 
+
 1 Lunker,  2 Littles, 1 Pooney
 
-The output should look like this for input 76
+The output should look like this for input 76:
+
 1 Lunker, 2 Littles,  1 Poony
 
 ## Problem part Three:
