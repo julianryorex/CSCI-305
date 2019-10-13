@@ -1,0 +1,16 @@
+
+Requirements:
+
+- Your program will take the name of the input text file by a command line argument.
+
+- Your program will need the following functions:
+    - The main function that calls all the rest of the functions, except error checking function,
+      sends parameters needed to the functions and receives variables back from functions when needed.
+    - A function to open the file and read in the contents of the file.
+    - A function to parse out all numbers in the imported file data.
+    - A function to write the new data, without numbers back to the output file.
+    - An error checking function, many of these steps have function calls that return an error variable,
+      that variable should be sent to this function, if there is no error it doesn't need to do anything,
+      if there is an error it should be sent to the panic function (built in, you don't write panic).
+
+- The output file name should be taken from user input.
