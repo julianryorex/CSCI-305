@@ -21,6 +21,7 @@ Bad data should have an error output given.
 Make sure your code uses a function to return the amount of each coin needed, the function should be called for each coin and then it can be used for all parts below and the code doesn't need to be rewritten. The smaller amount of lines of code (reusable code using function calls) the better.
 
 **Output:**
+
 The output should look like this for input 41
 
   1 Lunker
