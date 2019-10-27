@@ -1,0 +1,7 @@
+- gprolog
+
+- ["name of file"]. (without the extension)
+
+- If yes, compiled correctly.
+
+- enter function name
